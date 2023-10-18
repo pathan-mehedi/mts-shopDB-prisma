@@ -10,7 +10,7 @@ Before you get started, make sure you have the following prerequisites installed
 
 -   Node.js
 -   Prisma CLI
--   PostgreSQL (or your preferred database system)
+-   MySQL (or your preferred database system)
 
 ## Installation
 
